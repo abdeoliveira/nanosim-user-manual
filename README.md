@@ -68,8 +68,8 @@ O Siesta está instalado em modo PARALELO, com suporte ao Transiesta, com o nome
 Não existe o executável `transiesta`. Para tanto, siga os passos abaixo (usaremos 4 cores
 apenas como exemplo):
 
-1. Para criar os eletrodos, execute `mpirun -np 4 siesta --electrode elec_input.fdf`
-2. Após o passo acima, execute o Siesta normalmente, como `mpirun -np 4 siesta < input.fdf`
+1. Para criar um eletrodo, execute `mpirun -np 4 siesta --electrode elec_input.fdf`
+2. Após criar os eletrodos, execute o Siesta normalmente, como `mpirun -np 4 siesta < input.fdf`
 
 ## Configurações avançadas (opcional)
 
