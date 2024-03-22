@@ -61,7 +61,7 @@ Caso necessite de uma compilação com outros pacotes que não os citados acima,
 
 ### SIESTA e TRANSIESTA
 
-O Siesta está instalado em modo PARALELO, com suporte ao Transiesta, com o nome de `siesta`. 
+O Siesta está instalado com o nome de `siesta`, em modo PARALELO, e com suporte ao Transiesta.
 
 #### Transiesta
 
