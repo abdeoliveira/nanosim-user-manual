@@ -55,7 +55,7 @@ Não temos. Cada usuário é responsável pela segurança dos seus dados.
 
 ### LAMMPS 
 
-Está instalado com o nome de `lmp_omp` com os pacotes adicionais `CLASS2`, `EXTRA-COMPUTE`, `KSPACE`,`MANYBODY`,`MC`,`MISC`,`MOLECULE`, `OPENMP`, `REAXFF` e `RIGID`.
+Está instalado com o nome de `lmp` com os pacotes adicionais `CLASS2`, `EXTRA-COMPUTE`, `KSPACE`,`MANYBODY`,`MC`,`MISC`,`MOLECULE`, `OPENMP`, `REAXFF` e `RIGID`.
 
 Caso necessite de uma compilação com outros pacotes que não os citados acima, contacte os administradores do cluster.
 
