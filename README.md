@@ -32,7 +32,10 @@ Pedidos justificados para aumento de quota podem ser feitos aos administradores 
 
 ## Submissão de jobs
 
-Jobs devem ser submetidos diretamente nos `nodes`, sem sistema de filas no momento. 
+* Jobs devem ser submetidos diretamente nos `nodes`. 
+* **Não execute programas no `headnode`.** 
+* Não há sistema de filas no momento. 
+
 Sugerimos os passos a seguir:
 
 1. No `headnode`, use o commando `top-nodes` para visualizar o estado geral do cluster.
