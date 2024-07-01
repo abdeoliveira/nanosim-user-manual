@@ -57,7 +57,7 @@ artigos, teses, dissertações etc. Unidades reservadas aparecerão com status
 Apesar de cada usuário ser considerado **único** responsável pela 
 segurança dos seus dados, nós temos backup do `/home`.
 
-Os snapshots do `/home` são feitos a cada hora e estes 
+Snapshots do `/home` são feitos a cada hora e estes 
 estão localizados no diretório `/backups/users/`. 
 
 A política de rentenção dos backups é a que se segue:
