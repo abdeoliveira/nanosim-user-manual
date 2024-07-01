@@ -57,14 +57,12 @@ artigos, teses, dissertações etc. Unidades reservadas aparecerão com status
 Apesar de cada usuário ser considerado **único** responsável pela 
 segurança dos seus dados, nós temos backup do `/home`.
 
-Snapshots do `/home` são feitos a cada hora e estes 
-estão localizados no diretório `/backups/users/`. 
+Snapshots do `/home` são feitos uma vez por semana e armazenados 
+em `/backups/users/`. 
 
-A política de rentenção dos backups é a que se segue:
+A política de rentenção é a que se segue:
 
-* Todos os snapshots das últimas 24h são mantidos.
-* Um snapshot por dia é mantido nos últimos 7 dias.
-* Um snapshot por semana é mantido nas últimas 4 semanas.
+* Um snapshot por semana é mantido nos últimos 30 dias.
 * Um snapshot por mês é mantidos nos últimos 6 meses.
 * Nenhum snapshot é mantido por mais de 6 meses.
 
