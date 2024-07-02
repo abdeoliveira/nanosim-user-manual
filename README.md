@@ -56,8 +56,9 @@ artigos, teses, dissertações etc. Unidades reservadas aparecerão com status
 ## Backups
 
 >
-> Quem tem dois, tem um. Quem tem um, não tem nenhum.  
+> "Quem tem dois, tem um. Quem tem um, não tem nenhum".  
 > -- Luiz Cuiuba. 
+>
 > P.S.: Sete Ratos diz que foi ele quem disse, 
 > mas quem disse mesmo foi Luiz Cuiuba. Ioiô Saldanha estava de prova.
 >
