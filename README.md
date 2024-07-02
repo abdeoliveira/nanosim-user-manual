@@ -60,7 +60,7 @@ segurança dos seus dados, nós temos backup do `/home`.
 Snapshots do `/home` são feitos uma vez por semana e armazenados 
 em `/backups/users/`. 
 
-A política de rentenção é a que se segue:
+A política de rentenção de backups é a que se segue:
 
 * Um snapshot por semana é mantido nos últimos 30 dias.
 * Um snapshot por mês é mantidos nos últimos 6 meses.
