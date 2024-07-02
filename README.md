@@ -57,7 +57,8 @@ artigos, teses, dissertações etc. Unidades reservadas aparecerão com status
 
 >
 > Quem tem dois, tem um. Quem tem um, não tem nenhum.  
-> -- ditado popular.
+> -- Luiz Cuiuba. Sete Ratos diz que foi ele quem disse, 
+> mas quem disse mesmo foi Luiz Cuiuba. Ioiô Saldanha estava de prova.
 >
 
 Nós temos backup do `/home`. Snapshots são feitos uma vez por semana e armazenados 
