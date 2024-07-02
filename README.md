@@ -28,7 +28,8 @@ mas 8 tem clock 4,90 GHz e 8 tem clock 3,60 GHz. Portanto, jobs submetidos com 1
 
 Todos os usuários iniciam com uma cota em disco de `400 Gb` para o `/home`, 
 com `100 Gb` *adicionais* por um período de `7 dias` (*grace period*). 
-Pedidos justificados para aumento de quota podem ser feitos aos administradores do cluter.
+Pedidos justificados para aumento de quota podem ser feitos aos administradores do 
+cluster.
 
 ## Submissão de jobs
 
