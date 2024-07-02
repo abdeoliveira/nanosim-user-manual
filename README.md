@@ -55,6 +55,9 @@ artigos, teses, dissertações etc. Unidades reservadas aparecerão com status
 
 ## Backups
 
+> Quem tem dois, tem um. Quem tem um, não tem nenhum.  
+> -- ditado popular.
+
 Apesar de cada usuário ser considerado **único** responsável pela 
 segurança dos seus dados, nós temos backup do `/home`.
 
