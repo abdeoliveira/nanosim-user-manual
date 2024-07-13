@@ -63,7 +63,7 @@ artigos, teses, dissertações etc. Unidades reservadas aparecerão com status
 > mas quem disse mesmo foi Luiz Cuiuba. Ioiô Saldanha estava de prova.
 >
 
-Nós temos backup do `/home`. Snapshots são feitos diariamente e armazenados 
+Snapshots do `/home` são feitos diariamente e armazenados 
 em `/backups/users/`. 
 
 A política de rentenção de backups é a que se segue:
