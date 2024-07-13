@@ -63,11 +63,12 @@ artigos, teses, dissertações etc. Unidades reservadas aparecerão com status
 > mas quem disse mesmo foi Luiz Cuiuba. Ioiô Saldanha estava de prova.
 >
 
-Nós temos backup do `/home`. Snapshots são feitos uma vez por semana e armazenados 
+Nós temos backup do `/home`. Snapshots são feitos diariamente e armazenados 
 em `/backups/users/`. 
 
 A política de rentenção de backups é a que se segue:
 
+* Um snapshot por dia é mantido nos últimos 7 dias.
 * Um snapshot por semana é mantido nos últimos 30 dias.
 * Um snapshot por mês é mantidos nos últimos 6 meses.
 * Nenhum snapshot é mantido por mais de 6 meses.
