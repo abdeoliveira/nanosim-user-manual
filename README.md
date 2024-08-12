@@ -65,6 +65,7 @@ em `/backups/users/`.
 
 A política de rentenção de backups é a que se segue:
 
+* Todos os backups das últimas 24h são mantidos.
 * Um snapshot por dia é mantido nos últimos 7 dias.
 * Um snapshot por semana é mantido nos últimos 30 dias.
 * Um snapshot por mês é mantidos nos últimos 6 meses.
